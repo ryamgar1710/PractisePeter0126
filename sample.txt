@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Added at 12.22pm
+=======
+Added from Remote GitHub @ 1223
+>>>>>>> 43390cd93434b6f7a12894b5e4cd377729938c9c
+
+Added from Local
